@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Pratham Sunil More
 
-<!--
-**morepratham78-ops/morepratham78-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year AI/ML Student  
+💻 Learning: Python, Machine Learning  
+🚀 Interested in: Data Science, Deep Learning  
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python
+- Machine Learning (Basics)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Movie Recommendation System
+- Student Performance Predictor
+
+## 📫 Connect
+-https://www.linkedin.com/in/pratham-more-2156b0327?utm_source=share_via&utm_content=profile&utm_medium=member_android
